@@ -1,0 +1,12 @@
+PODS:
+  - SwipeTableView (0.2.6)
+
+DEPENDENCIES:
+  - SwipeTableView (~> 0.2.6)
+
+SPEC CHECKSUMS:
+  SwipeTableView: 67d8a2e6e18bd38c188fd4fabda0b278eaa08d2f
+
+PODFILE CHECKSUM: f761700b929327949de3252be5902e344a2c82b1
+
+COCOAPODS: 1.4.0.beta.1
