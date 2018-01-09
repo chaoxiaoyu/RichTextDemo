@@ -12,6 +12,7 @@
 
 @interface FirstPageView : UIView<UITableViewDelegate, UITableViewDataSource,ScrollToTopDelegate>
 
+
 @property (nonatomic, strong) BaseTableView *bottomTableView;
 @property (nonatomic, strong) NSArray *titleArray;
 @property (nonatomic, assign) BOOL canScroll;
